@@ -1,23 +1,2 @@
-# 👋 你好，我是一名就读于 **中山大学 (SYSU)** 的大一学生，正在编程的荒野中练级。
-
----
-
-### 🛠️ 我正在钻研的技术栈
-* **主修语言**: `C++` (正在 VS 2026 中受苦并快乐着)
-* **环境工具**: `Linux` 探索中 / `Clash Verge` / `Typora` 深度用户
-* **当前课题**: 内存管理、指针、以及如何让 AI 补全不打乱我的思路。
-
-### 📚 学习日志 & 笔记
-我把学习中遇到的 AI 问答和踩坑记录都整理在我的项目里了：
-
-### 🎮 兴趣与生活
-* 🧠 **逻辑学**: 正在尝试用逻辑拆解复杂问题，提升批判性思维。
-
----
-
-### 📈 学习目标 (Roadmap)
-- [ ] 彻底搞懂 C++ 智能指针
-- [ ] 能够无字幕看懂全英文技术视频 (English Learning...)
-- [ ] 保持 GitHub 的“绿格子”持续更新
-
+# 👋 Hello, world! I'm an Sun Yat-sen University (SYSU) freshman level-ing up my skills in the programming wild.
 > "The best way to predict the future is to implement it."
